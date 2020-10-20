@@ -1,0 +1,18 @@
+ls
+ls
+cd ..
+ls
+cat .emacs
+ls
+cat .emacs
+rm -rf .emacs
+ls
+cd lisp/
+ls
+rm -rf init.package.el 
+ls
+cd ~/.emacs.d/
+ls
+cd lisp/
+ls
+rm -rf init-kd.el
